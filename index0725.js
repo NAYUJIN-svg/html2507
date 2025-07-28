@@ -34,4 +34,3 @@ console.log(`${result}`)
 console.log(`${result.toFixed(3)}`)
 r.innerHTML = r.innerHTML + `<h1>[나눗셈/ ] ${result}</h1>`;
 r.innerHTML = r.innerHTML + `<h1>[나눗셈.toFixed(3)/] ${result.toFixed(3)}</h1>`;
-
